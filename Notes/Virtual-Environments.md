@@ -49,6 +49,7 @@ Neyse ki, bu **sıkıcı işi bizim için yapacak araçlar var:**
   # Genellikle sanal ortam adı olarak "venv" kullanılır!
   # Ornek olarak şu komutu girdiğimizi varsayalım: "python3 -m venv venv"
   # Veya en son sürüm sanal ortam kurmayacaksanız: "python3 -3.x -m venv {folder_name}" bunu yazmanız yeterli  
+  # Ekstradan şu komut ile 
 ```
 - Bu yukarıda yazdığım örnek komut  proje klasörümün içinde venv adında bir alt klasör oluşturacak. Bu klasör, Python'un bir kopyasını ve kütüphaneleri barındırır.
 
