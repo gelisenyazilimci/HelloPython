@@ -16,9 +16,9 @@
 - Bazenleri projenin uyumluluğu için eski sürümleri yüklemek gerekebilir.
 - **Komut Yapısı:**
 1.  **Tam olarak belirtilen sürüm:** ```==```
-2.  **Minimum bu sürüm veya üstü:** ```>=```
+2.  **Minimum bu sürüm veya üstü:** ```>=``` (Paketin en az şu sürümü ve sonrası olsun, daha yenileri de olur)
 3.  **Bu sürümden daha düşük:** ```<```
-
+5.  **Uyumlu sürüm:** ```~=``` (Bu sürümle uyumlu en son sürümü kur, ama büyük ve riskli değişiklikler içeren ana sürümü atlama" anlamına gelir.)
 - **Komut yapısını tam anlamak için örnekler:**
 
   - numpy kütüphanesinin tam olarak 1.23.5 sürümünü yüklemek için:
